@@ -1,0 +1,23 @@
+{
+  "name": "node-avocado",
+  "version": "1.0.0",
+  "description": "AVOCADO for distributed IoT platform service",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/avocado-software/node-avocado.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avocado-software/node-avocado/issues"
+  },
+  "homepage": "https://github.com/avocado-software/node-avocado",
+  "dependencies": {
+    "mosca": "^0.31.1"
+  }
+}
